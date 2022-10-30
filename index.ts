@@ -1,10 +1,15 @@
-console.log('fadhil');
+console.log('fadhil omer');
 
+let list : number [];
+let index:number;
+list = [];
+for(index = 0; index < 5; index++){
+console.log(list);
+list[] = parseint(prompt("ارجو ادخال عدد"));
 
-let index: number;
-
-for(index = 1; index <= 10 ; index++) {
-
-  console.log("الله اكبر" index );
 }
 
+for(index < list.length; index++){
+console.log("list[ "+ index + " ] =" +list[index] );
+}
+console.log(list);
